@@ -1,0 +1,12 @@
+.list-inline {
+  text-decoration: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 16px 32px;
+  color: white;
+  font-size: 32px;
+  transition: 0.3s;
+}
